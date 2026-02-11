@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26282-netizen/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26282-netizen/aps/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/vtu26282-netizen/aps/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu26282-netizen/aps/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu26282-netizen/aps/tree/master/0344-reverse-string) |
