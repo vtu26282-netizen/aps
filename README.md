@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu26282-netizen/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vtu26282-netizen/aps/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26282-netizen/aps/tree/master/0641-design-circular-deque) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu26282-netizen/aps/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/vtu26282-netizen/aps/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu26282-netizen/aps/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu26282-netizen/aps/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
