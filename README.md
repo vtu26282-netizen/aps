@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26282-netizen/aps/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu26282-netizen/aps/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26282-netizen/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu26282-netizen/aps/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu26282-netizen/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu26282-netizen/aps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu26282-netizen/aps/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
@@ -169,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu26282-netizen/aps/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
