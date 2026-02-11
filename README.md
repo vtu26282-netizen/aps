@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu26282-netizen/aps/tree/master/0025-reverse-nodes-in-k-group) |
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26282-netizen/aps/tree/master/0641-design-circular-deque) |
 ## Tree
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26282-netizen/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu26282-netizen/aps/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
