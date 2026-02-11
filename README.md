@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26282-netizen/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26282-netizen/aps/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vtu26282-netizen/aps/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26282-netizen/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26282-netizen/aps/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26282-netizen/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu26282-netizen/aps/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
