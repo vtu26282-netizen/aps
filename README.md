@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26282-netizen/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26282-netizen/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu26282-netizen/aps/tree/master/0283-move-zeroes) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu26282-netizen/aps/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/vtu26282-netizen/aps/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26282-netizen/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26282-netizen/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu26282-netizen/aps/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -174,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu26282-netizen/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
