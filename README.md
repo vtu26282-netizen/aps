@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26282-netizen/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu26282-netizen/aps/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/vtu26282-netizen/aps/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu26282-netizen/aps/tree/master/0257-binary-tree-paths) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
 <!---LeetCode Topics End-->
