@@ -1,46 +1,34 @@
+import java.util.*;
+
 class Solution {
-    class NodeInfo {
-        int row, col, val;
-        NodeInfo(int r, int c, int v) {
-            this.row = r;
-            this.col = c;
-            this.val = v;
-        }
-    }
-
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<NodeInfo> nodes = new ArrayList<>();
-        dfs(root, 0, 0, nodes);
-
-        // Sort by: Column first, then Row, then Value
-        Collections.sort(nodes, (a, b) -> {
-            if (a.col != b.col) return a.col - b.col;
-            if (a.row != b.row) return a.row - b.row;
-            return a.val - b.val;
-        });
-
-        List<List<Integer>> result = new ArrayList<>();
-        if (nodes.isEmpty()) return result;
-
-        int currentCol = nodes.get(0).col;
-        List<Integer> currentList = new ArrayList<>();
+        // Map: Column -> (Map: Row -> Sorted Values)
+        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
         
-        for (NodeInfo node : nodes) {
-            if (node.col != currentCol) {
-                result.add(currentList);
-                currentList = new ArrayList<>();
-                currentCol = node.col;
+        dfs(root, 0, 0, map);
+        
+        List<List<Integer>> result = new ArrayList<>();
+        for (TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()) {
+            List<Integer> currentColumn = new ArrayList<>();
+            for (PriorityQueue<Integer> nodes : rows.values()) {
+                // Empty the PQ to maintain sorted order for identical coordinates
+                while (!nodes.isEmpty()) {
+                    currentColumn.add(nodes.poll());
+                }
             }
-            currentList.add(node.val);
+            result.add(currentColumn);
         }
-        result.add(currentList);
         return result;
     }
 
-    private void dfs(TreeNode root, int row, int col, List<NodeInfo> nodes) {
-        if (root == null) return;
-        nodes.add(new NodeInfo(row, col, root.val));
-        dfs(root.left, row + 1, col - 1, nodes);
-        dfs(root.right, row + 1, col + 1, nodes);
+    private void dfs(TreeNode node, int col, int row, TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map) {
+        if (node == null) return;
+        
+        map.putIfAbsent(col, new TreeMap<>());
+        map.get(col).putIfAbsent(row, new PriorityQueue<>());
+        map.get(col).get(row).offer(node.val);
+        
+        dfs(node.left, col - 1, row + 1, map);
+        dfs(node.right, col + 1, row + 1, map);
     }
 }
