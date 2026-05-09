@@ -10,10 +10,9 @@ class Solution {
             V[i][1] = i;
         }
 
-        // Step 2: Sort by distance ascending
+    
         Arrays.sort(V, (a, b) -> a[0] - b[0]);
 
-        // Step 3: Extract K closest points
         int[][] ans = new int[k][2];
         for (int i = 0; i < k; i++) ans[i] = points[V[i][1]];
         return ans;
