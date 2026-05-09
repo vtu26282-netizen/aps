@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26282-netizen/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/vtu26282-netizen/aps/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/vtu26282-netizen/aps/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26282-netizen/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/vtu26282-netizen/aps/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/vtu26282-netizen/aps/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/vtu26282-netizen/aps/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26282-netizen/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/vtu26282-netizen/aps/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
