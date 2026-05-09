@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3470-permutations-iv](https://github.com/vtu26282-netizen/aps/tree/master/3470-permutations-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/vtu26282-netizen/aps/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3470-permutations-iv](https://github.com/vtu26282-netizen/aps/tree/master/3470-permutations-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -419,8 +421,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3470-permutations-iv](https://github.com/vtu26282-netizen/aps/tree/master/3470-permutations-iv) |
 ## Number Theory
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [3470-permutations-iv](https://github.com/vtu26282-netizen/aps/tree/master/3470-permutations-iv) |
 <!---LeetCode Topics End-->
