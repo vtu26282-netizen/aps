@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26282-netizen/aps/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26282-netizen/aps/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vtu26282-netizen/aps/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu26282-netizen/aps/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vtu26282-netizen/aps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26282-netizen/aps/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu26282-netizen/aps/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -298,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vtu26282-netizen/aps/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/vtu26282-netizen/aps/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
