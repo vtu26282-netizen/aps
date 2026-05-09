@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu26282-netizen/aps/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/vtu26282-netizen/aps/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/vtu26282-netizen/aps/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26282-netizen/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/vtu26282-netizen/aps/tree/master/0347-top-k-frequent-elements) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu26282-netizen/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26282-netizen/aps/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu26282-netizen/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu26282-netizen/aps/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
