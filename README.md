@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vtu26282-netizen/aps/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vtu26282-netizen/aps/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu26282-netizen/aps/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26282-netizen/aps/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/vtu26282-netizen/aps/tree/master/0704-binary-search) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,8 +402,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vtu26282-netizen/aps/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vtu26282-netizen/aps/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/vtu26282-netizen/aps/tree/master/1763-longest-nice-substring) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Geometry
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu26282-netizen/aps/tree/master/0973-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vtu26282-netizen/aps/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
