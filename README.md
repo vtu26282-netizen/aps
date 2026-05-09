@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu26282-netizen/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu26282-netizen/aps/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtu26282-netizen/aps/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26282-netizen/aps/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu26282-netizen/aps/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
@@ -284,10 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu26282-netizen/aps/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/vtu26282-netizen/aps/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26282-netizen/aps/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vtu26282-netizen/aps/tree/master/2065-maximum-path-quality-of-a-graph) |
