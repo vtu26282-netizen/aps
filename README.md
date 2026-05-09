@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vtu26282-netizen/aps/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vtu26282-netizen/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vtu26282-netizen/aps/tree/master/0078-subsets) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vtu26282-netizen/aps/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vtu26282-netizen/aps/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/vtu26282-netizen/aps/tree/master/0113-path-sum-ii) |
