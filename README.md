@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vtu26282-netizen/aps/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu26282-netizen/aps/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vtu26282-netizen/aps/tree/master/0739-daily-temperatures) |
+| [0929-unique-email-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26282-netizen/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/vtu26282-netizen/aps/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu26282-netizen/aps/tree/master/0997-find-the-town-judge) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu26282-netizen/aps/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu26282-netizen/aps/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26282-netizen/aps/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26282-netizen/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/vtu26282-netizen/aps/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26282-netizen/aps/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/vtu26282-netizen/aps/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/vtu26282-netizen/aps/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0929-unique-email-addresses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26282-netizen/aps/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Math
 |  |
