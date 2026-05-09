@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26282-netizen/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26282-netizen/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/vtu26282-netizen/aps/tree/master/0200-number-of-islands) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26282-netizen/aps/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26282-netizen/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vtu26282-netizen/aps/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vtu26282-netizen/aps/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26282-netizen/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu26282-netizen/aps/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26282-netizen/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/vtu26282-netizen/aps/tree/master/0218-the-skyline-problem) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu26282-netizen/aps/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/vtu26282-netizen/aps/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/vtu26282-netizen/aps/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu26282-netizen/aps/tree/master/0344-reverse-string) |
